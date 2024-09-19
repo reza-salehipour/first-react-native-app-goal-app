@@ -53,11 +53,10 @@ const styles = StyleSheet.create({
   inputContainer: {
     flex: 1,
     justifyContent: "center",
-    alignContent: "center",
+    alignItems: "center",
     padding: 16,
     backgroundColor: "#311b6b",
   },
-
   image: {
     width: 100,
     height: 100,
